@@ -1,0 +1,5 @@
+name: OPPrison
+version: 0.1
+author: NettySocket
+main: de.nettysocket.opprison.Main
+commands:
